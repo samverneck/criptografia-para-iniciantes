@@ -1,4 +1,4 @@
-# Criptografia para Iniciantes
+# CRIPTOGRAFIA PARA INICIANTES - 2º EDICAO
 ##### Salahoddin Shokranian 
 
 ![](http://d3vdsoeghm4gc3.cloudfront.net/Custom/Content/Products/16/56/165607_criptografia-para-iniciantes-595068_T2.jpg)
